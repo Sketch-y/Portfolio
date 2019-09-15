@@ -3,3 +3,9 @@
 body {
   font-family: 'Covered By Your Grace', cursive;
 }
+
+p {
+  font-style: italic;
+  
+  font-size: 50px;
+}
