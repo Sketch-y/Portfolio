@@ -23,3 +23,7 @@ p {
   padding: 14px 16px;
   font-size: 17px;
 }
+
+.navbar a:hover {
+  background-color: #A09CD7 
+    color: #242054
