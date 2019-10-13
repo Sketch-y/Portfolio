@@ -3,6 +3,9 @@
 </style>
 
 body {
+  background-image: url(https://www.thespruce.com/thmb/Nufg8VoRXdVEIbqulfnaS0vRPtk=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1004261968-5b8d9cb946e0fb0025f5f51b.jpg);
+background-repeat: no-repeat;
+background-size: cover;
   font-family: 'Covered By Your Grace', cursive;
 }
 
