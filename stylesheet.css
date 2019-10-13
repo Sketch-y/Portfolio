@@ -27,3 +27,8 @@ p {
 .navbar a:hover {
   background-color: #A09CD7 
     color: #242054
+    
+.navbar a.active {
+  background-color: #474560 
+    color: #050045
+  }
