@@ -11,3 +11,7 @@ p {
   
   font-size: 10px;
 }
+.navbar {
+  overflow:hidden;
+  backgoround-color: #956C63;
+}
