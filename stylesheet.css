@@ -2,10 +2,12 @@
 @import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great&display=swap');
 </style>
 
+
+
 body {
-  background-image: url(https://www.thespruce.com/thmb/Nufg8VoRXdVEIbqulfnaS0vRPtk=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1004261968-5b8d9cb946e0fb0025f5f51b.jpg);
-background-repeat: no-repeat;
-background-size: cover;
+  background: url(https://cdn.garche.jp/item_getties/images/000/021/812/medium/5cd0451f-ed61-41ca-bb07-f0cfb421d10e.jpg?1566055919);
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: 'Covered By Your Grace', cursive;
 }
 
