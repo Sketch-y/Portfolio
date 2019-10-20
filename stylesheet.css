@@ -5,7 +5,7 @@
 
 
 body {
-  background: url(https://cdn.garche.jp/item_getties/images/000/021/812/medium/5cd0451f-ed61-41ca-bb07-f0cfb421d10e.jpg?1566055919);
+  background-image: url("https://cdn.garche.jp/item_getties/images/000/021/812/medium/5cd0451f-ed61-41ca-bb07-f0cfb421d10e.jpg?1566055919");
   background-repeat: no-repeat;
   background-size: cover;
   font-family: 'Covered By Your Grace', cursive;
